@@ -1,0 +1,16 @@
+/* Author Tweets Widget */
+.AuthorLatestTweetsWidget ul {
+	margin: 1em 0;
+}
+.AuthorLatestTweetsWidget ul li {
+	border-bottom: 1px solid #CCCCCC;
+	line-height: 1.5em;
+	padding-bottom: 0.75em;
+	margin-bottom: 0.5em;
+	list-style: none;
+}
+.AuthorLatestTweetsWidget p {
+	font-size: 10px;
+	text-align: right;
+	margin-bottom: 0;
+}
